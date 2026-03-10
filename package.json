@@ -20,7 +20,8 @@
     "eslint-config-custom": "workspace:*",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.8",
-    "turbo": "^1.10.13"
+    "turbo": "^1.10.13",
+    "deriv_ppetest": "1.0.0"
   },
   "packageManager": "yarn@3.2.3"
 }
